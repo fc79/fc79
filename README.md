@@ -13,10 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 -->
 
 ### About me :raising_hand: 
- + I am fatemeh gholizadeh, a Front-End developer (mostly React JS)
+
+### I am fatemeh gholizadeh, a Front-End developer (mostly React JS)
 ### I got my bachelor degree in Iran University Of Science And Technology
 ### I have been learning React JS since 2020 via university projects. 
 ### By the end of my bachelor period, I (in teams which were consisted of my classmates) could perform coding of four React JS projects (One of them was during my internship).
