@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me :raising_hand: 
-   <h1 style="color:purple;">Hello World</h1>
+### <h1 style="color:purple;">Hello World</h1>
 ### I am fatemeh gholizadeh, a Front-End developer (mostly React JS)
 ### I got my bachelor degree in Iran University Of Science And Technology
 ### I have been learning React JS since 2020 via university projects. 
