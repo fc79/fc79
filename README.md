@@ -61,9 +61,12 @@ Here are some ideas to get you started:
 ### Front-end
 
 <p align="center">
+   <div>
   <a href="https://github.com/fc79/Pioneer">
-    
+    <img src="images/html.svg" />
   </a>
+      
+   </div>
 
   <a href="https://github.com/ali-sedaghi/TunePal">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=TunePal&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
