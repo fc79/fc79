@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   <code><img title="Progressive Web App (PWA)" height="30" src="images/pwa.png"></code>
   <code><img title="Material‑UI" height="30" src="images/mui.svg"></code>
   <code><img title="Bootstrap" height="30" src="images/bootstrap.png"></code>
+  <code><img title="Tailwind" height="30" src="images/tailwind.png"></code>
   <code><img title="HTML" height="30" src="images/html.svg"></code>
   <code><img title="CSS" height="30" src="images/css.svg"></code>
   <code><img title="Sass" height="30" src="images/sass.svg"></code>
