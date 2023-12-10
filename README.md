@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <code><img title="TypeScript" height="30" src="images/typescript.png"></code>
   <code><img title="Redux" height="30" src="images/redux.svg"></code>
   <code><img title="React Router" height="30" src="images/react-router.png"></code>
+  <code><img title="Agile" height="30" src="images/agile.png"></code>
   <code><img title="Jest" height="30" src="images/jest.svg"></code>
   <code><img title="Progressive Web App (PWA)" height="30" src="images/pwa.png"></code>
   <code><img title="Material‑UI" height="30" src="images/mui.svg"></code>
