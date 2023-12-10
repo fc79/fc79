@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <p align="center">
    <div>
   <a href="https://github.com/fc79/Pioneer">
-    <img src="images/html.svg" />
+    <img src="images/html.svg&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
   </a>
       
    </div>
